@@ -29,3 +29,6 @@ class Solution:
                 return [mapp[difference], i]
 
             mapp[nums[i]] = i
+
+        # Time: O(n)
+        # Space: O(n)
