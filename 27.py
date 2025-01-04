@@ -52,3 +52,6 @@ class Solution:
                 break
 
         return k
+
+        # Time: O(n)
+        # Space: O(1)
